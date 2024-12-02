@@ -3,6 +3,6 @@
 #include "faffa.h"
 
 int main () {
-    printf("hello\n");
+    printf("%d\n",add(sub(4,2), 1) );
     return 0;
 }
